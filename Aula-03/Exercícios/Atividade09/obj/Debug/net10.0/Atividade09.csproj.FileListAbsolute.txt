@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/bin/Debug/net10.0/Atividade09
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/bin/Debug/net10.0/Atividade09.deps.json
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/bin/Debug/net10.0/Atividade09.runtimeconfig.json
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/bin/Debug/net10.0/Atividade09.dll
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/bin/Debug/net10.0/Atividade09.pdb
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.AssemblyInfo.cs
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.sourcelink.json
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.dll
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/refint/Atividade09.dll
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.pdb
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/Atividade09.genruntimeconfig.cache
+/Users/DS1/Documents/2026-|2DS/Aula-03/Exercícios/Atividade09/obj/Debug/net10.0/ref/Atividade09.dll
