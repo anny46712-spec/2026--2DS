@@ -1,0 +1,15 @@
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/bin/Debug/net10.0/Alunos
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/bin/Debug/net10.0/Alunos.deps.json
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/bin/Debug/net10.0/Alunos.runtimeconfig.json
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/bin/Debug/net10.0/Alunos.dll
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/bin/Debug/net10.0/Alunos.pdb
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.AssemblyInfoInputs.cache
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.AssemblyInfo.cs
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.csproj.CoreCompileInputs.cache
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.sourcelink.json
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.dll
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/refint/Alunos.dll
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.pdb
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/Alunos.genruntimeconfig.cache
+/Users/DS1/Documents/2026-|2DS/Aula-05/Exercício-02/Alunos/obj/Debug/net10.0/ref/Alunos.dll
